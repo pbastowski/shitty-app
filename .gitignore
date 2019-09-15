@@ -1,0 +1,6 @@
+.nuxt
+.idea
+node_modules
+package-lock.json
+frontend/.nuxt
+dist
